@@ -1,2 +1,2 @@
 
-## "Manufacturing.pdf" is a snapshot of the project.
+## "Manufacturing.pdf" is a snapshot of the dashboard.
