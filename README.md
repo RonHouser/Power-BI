@@ -4,6 +4,9 @@
 ## Manufacturing Washline
 ### contains a dashboard of a dataset monitoring the process information of a 3 stage chemical washline. Focuses on Stage 1.
 ------------------------------------------------------------------------------------------------------------------------------------------------
+## Revenue (DAX)
+### contains a dashboard of a dataset for USA Sales Revenue broken down with DAX
+------------------------------------------------------------------------------------------------------------------------------------------------
 ### Reach out to me with any questions: ron.houser12@gmail.com
 
 ## [LinkedIn](https://www.linkedin.com/in/ron-houser-429052203/)
